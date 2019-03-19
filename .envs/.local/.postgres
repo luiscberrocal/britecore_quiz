@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=britecore_quiz
+POSTGRES_USER=HOVOhRTIzaXympEqyYJBJZZNquEppKdS
+POSTGRES_PASSWORD=ay0Vl0nyysiu6AesnrzzakYalhxJHADEcNElBne9lOOLFKInhu1vUjjp4g4EogEF
